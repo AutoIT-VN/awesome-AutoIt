@@ -61,6 +61,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [SAPWizard (by ozmike)](http://www.autoitscript.com/forum/index.php?showtopic=149540) - SAPWizard UDF.
 - [Service (by arcker)](http://www.autoitscript.com/forum/index.php?showtopic=80201) - Build your own service with AutoIt code.
 - [WiFi (by MattyD)](http://www.autoitscript.com/forum/index.php?showtopic=91018) - Low level control over your wireless LAN.
+- [AutoItMonkey](https://github.com/ohtejera/AutoItMonkey) - The AutoItMonkey is an UDF that runs on your Android emulator or device and generates pseudo-random streams of user events such as clicks, touches, or gestures, as well as a number of system-level events.
 
 #### Browsers
 
@@ -362,6 +363,8 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [Synology filestation (by nend)](http://www.autoitscript.com/forum/index.php?showtopic=164444) - UDF for users of Synology NAS server.
 - [TVExplorer (by Yashied)](http://www.autoitscript.com/forum/index.php?showtopic=125251) - TVExplorer UDF.
 - [SciLexer (by Kip)](http://www.autoitscript.com/forum/index.php?showtopic=51547) - SciLexer UDF.
+- [AutoItAppveyor (by KyleChamberlin)](https://github.com/AutoItMicro/AutoItAppveyor) - This library contains functions for integrating your AutoIt scripts and programs with Appveyor CI.
+- [Micro Unit Testing Framework (by KyleChamberlin)](https://github.com/AutoItMicro/MicroUnitTestingFramework) - Micro is a xUnit style testing framework design for use with AutoIt.
 
 ## Tools
 
@@ -380,12 +383,11 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 ### Websites
 
 - [Official Website](https://www.autoitscript.com/)
-- [AutoIt Forum](https://www.autoitscript.com/forum/)
- + [Vietnamese Forum](http://hocautoit.com/)
- + [Vietnamese Forum](http://vietautoit.com/)
+- [Official Forum](https://www.autoitscript.com/forum/)
+ + [Vietnamese Forum](http://autoitvn.com/)
  + [French Forum](http://www.autoitscript.fr/)
  + [Brazilian Forum](http://forum.autoitbrasil.com/)
- + [Germany Forum](http://autoit.de/)
+ + [Germany Forum](https://autoit.de/)
 - [AutoIt Wiki](https://www.autoitscript.com/wiki)
 - [Programs](https://www.autoitscript.com/wiki/AutoIt_Programs) - a list of programs created in AutoIt.
 - [AutoIt Group on Facebook](https://www.facebook.com/groups/autoitscript/) (Vietnamese).
@@ -415,7 +417,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 
 - [GeSHi - Generic Syntax Highlighter](http://qbnz.com/highlighter/)
 - [Highlight.js](https://highlightjs.org/) - Added AutoIt since version 8.7
-- [Crayon Syntax Highlighter](http://wordpress.org/extend/plugins/crayon-syntax-highlighter/) (WordPress Plugin) - Added AutoIt since version 1.8.2
+- [Crayon Syntax Highlighter](https://wordpress.org/plugins/crayon-syntax-highlighter/) (WordPress Plugin) - Added AutoIt since version 1.8.2
 - [WP Syntax](https://wordpress.org/plugins/wp-syntax/) (WordPress Plugin) - based on GeSHi.
 
 ## License
@@ -437,3 +439,5 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 - [awesome-awesomes](https://github.com/fleveque/awesome-awesomes) by @fleveque
 - [awesome-collection](https://github.com/flyhigher139/awesome-collection) by @flyhigher139
 - [lists](https://github.com/jnv/lists) by @jnv
+
+[[Back to Top](#awesome-autoit-)]
